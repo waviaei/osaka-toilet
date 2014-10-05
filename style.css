@@ -2,3 +2,17 @@
 Theme Name: Osaka Toilet
 */
 
+body {
+	background-color: #32C2D9;
+}
+#toilet-image {
+	width: 50%;
+	z-index: 9999;
+}
+#posts {
+	width: 50%;
+	z-index: 9999;
+}
+#posts a {
+	color: #fff;
+}
